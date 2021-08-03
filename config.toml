@@ -63,7 +63,7 @@ content = " Send it to us and contribute to this portal"
 
   [Languages.en.params.cta.button]
   enable = true
-  label = "contact us"
+  label = "contribute with your template"
   link = "contact"
 
 [[Languages.en.menu.main]]
