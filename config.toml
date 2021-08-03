@@ -52,7 +52,7 @@ copyright = "Copyright &copy; 2021 a Hugo theme by [Gethugothemes](https://gethu
 
 [Languages.en.params.banner]
 title = " Email Templates DAZN"
-subtitle = "Find advice and answers from our support team fast or get in touch"
+subtitle = "Find your template easily"
 bg_image = "images/banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
 
