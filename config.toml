@@ -59,7 +59,7 @@ placeholder = "TType your key words here"
 [Languages.en.params.cta]
 enable = true
 title = "Didn't find the template?"
-content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+content = " Send it to us and contribute to this portal"
 
   [Languages.en.params.cta.button]
   enable = true
